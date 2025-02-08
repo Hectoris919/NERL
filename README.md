@@ -1,7 +1,7 @@
 # NERL - Neuroevolution by Reinforcement Learning
 
 > A majority of the code within this project was written by an AI as a proof of concept. 
-> Because of this I have given this project The Unlicense, as almost none of the code was written by me.
+> Because of this, I have given this project The Unlicense, as almost none of the code was written by me.
 > 
 > I am slowly optimizing and adding to this project, as a lot of the logic is sloppy and difficault to follow.
 ---
