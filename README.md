@@ -3,7 +3,7 @@
 > A majority of the code within this project was written by an AI as a proof of concept. 
 > Because of this, I have given this project The Unlicense, as almost none of the code was written by me.
 > 
-> I am slowly optimizing and adding to this project, as a lot of the logic is sloppy and difficault to follow.
+> I am slowly optimizing and adding to this project, as a lot of the logic is sloppy and difficault to follow. I plan to add a visualizer that allows you to view the connectome's updates and activity in real-time.
 ---
 One problem with Neuroevolution algorithms is that they can take a long time to converge to a neuron network structure that works best for an agent, as they often work on a genetic algorithm to mutate new, randomly generated network architectures and pick the best of the networks to mutate in the next iteration. 
 
